@@ -1,0 +1,12 @@
+pandas
+numpy
+joblib
+scikit-learn
+imbalanced-learn
+pycaret
+shap
+matplotlib
+seaborn
+numpy_financial
+pandas_datareader
+lightgbm

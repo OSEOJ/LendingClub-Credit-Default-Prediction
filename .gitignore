@@ -1,0 +1,29 @@
+# Data (too large for GitHub - download separately)
+data/
+data.zip
+*.csv
+*.xlsx
+~$*
+
+# Output artifacts
+output/
+
+# PyCaret logs
+logs.log
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.env
+.venv
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
